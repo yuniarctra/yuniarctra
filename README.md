@@ -12,7 +12,7 @@ It includes projects and experiments related to:
 
 - 📈 Exploratory Data Analysis (EDA) using Python  
 - 🧮 Statistical modeling and simulation  
-- ⚙️ Machine learning basics (KNN, regression, classification)  
+- ⚙️ Machine learning basics  
 - 📊 Data visualization and interpretation  
 - 🌐 Early experiments in risk and uncertainty analysis  
 
