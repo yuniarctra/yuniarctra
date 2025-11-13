@@ -1,43 +1,43 @@
-# 🚀 Yuniar Citra Haryanti — Exploring Data, Numbers, and Risk 🎯
+# 📊 Yuniar Citra Haryanti — Data & Statistics in Progress
 
-Hi there! 👋  
-Welcome to my learning playground — a space where I explore **data**, experiment with **risk models**, and build my skills one project at a time.  
-
-I’m a Statistics student who’s passionate about turning messy data into meaningful insights.  
-Currently learning my way around **Data Analysis** and **Risk Analysis**, while slowly crafting a portfolio that reflects my journey. 🌱
+Hi! I’m **Yuniar Citra Haryanti**, a fifth-semester **Statistics student at Universitas Diponegoro**.  
+This GitHub page is where I document my learning journey — exploring data, building small analytical projects, and developing my skills in **data analysis** and **risk modeling**.
 
 ---
 
 ## 🔍 What You'll Find Here
-This repo is a mix of everything I’m learning — from basic stats and data wrangling to small-scale risk modeling projects.  
-You’ll see:
-- 📊 Exploratory Data Analysis using Python  
-- 🧮 Statistical modeling and simulations  
-- ⚡ Risk & uncertainty experiments  
-- 💻 Data storytelling through visualization  
 
-Basically, it’s my personal **sandbox** for growth.
+This repository is part of my learning portfolio.  
+It includes projects and experiments related to:
+
+- 📈 Exploratory Data Analysis (EDA) using Python  
+- 🧮 Statistical modeling and simulation  
+- ⚙️ Machine learning basics (KNN, regression, classification)  
+- 📊 Data visualization and interpretation  
+- 🌐 Early experiments in risk and uncertainty analysis  
+
+Every project here represents a step forward in my learning process.
 
 ---
 
-## 🧰 Tools of the Trade
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
-- **Jupyter Notebook**  
-- **Excel / Google Sheets**  
-- **Git & GitHub**
+## 🧰 Tools & Skills
 
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Jupyter Notebook** for analysis and documentation  
+- **Excel / Google Sheets** for quick calculations and visualization  
+- **Git & GitHub** for version control and collaboration  
 
 ---
 
 ## 👩‍💻 About Me
 **Yuniar Citra Haryanti**  
 🎓 Statistics Student - Universitas Diponegoro  
-📈 Aspiring Data & Risk Analyst   
+📈 Interested in Data Analysis, Risk Modeling, and Applied Statistics   
 
 📧 [Email](yuniarcitra12@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/yuniar-citra-haryanti-6b748728a/)
 
 ---
 
-⭐ Feel free to explore, learn, or share feedback — every insight helps me grow!  
-Let’s connect and make data a little less scary, and a lot more fun 😄
+⭐ Feel free to explore and share feedback — I’m continuously learning and improving!  
+Let’s make data analysis a little clearer, one project at a time.
